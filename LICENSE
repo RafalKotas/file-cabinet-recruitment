@@ -1,0 +1,17 @@
+Copyright (c) ${YEAR} ${AUTHOR_NAME}
+
+Evaluation License
+
+Permission is granted to recipients of this private repository to view, compile,
+and run the software solely for the purpose of evaluating the author's skills
+in a recruitment process.
+
+Restrictions:
+- No redistribution, sublicensing, or public disclosure.
+- No commercial use.
+- No derivative works may be published or distributed.
+- Access may be revoked by the author at any time.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+All rights not expressly granted are reserved by the author.
+EOF
